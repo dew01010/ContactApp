@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ContactApps</string>
+    <string name="contacts_empty">Contact is empty</string>
+    <string name="dialogTitle">Add Contact</string>
+    <string name="info">Info</string>
+    <string name="read_deny_msg">Read contact permission Required to Fetch list.Please enable setting by following path Settings->Apps->ContactApps->Permission</string>
+    <string name="write_deny_msg">Write Permission required to add contact to Contact App.Please enable setting by following path Settings->Apps->ContactApps->Permission</string>
+</resources>
